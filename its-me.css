@@ -7,6 +7,13 @@
  * Copyright 2015. MIT licensed.
  */
 
+.its-me {
+    position: fixed;
+    font-family: 'Glegoo', 'Helvetica Neue', "Arial", serif;
+    color: #FFF;
+    opacity: 0;
+}
+
 .animated {
     -webkit-animation-fill-mode: both;
     -moz-animation-fill-mode: both;
