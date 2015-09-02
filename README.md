@@ -1,6 +1,7 @@
-# its-me
-feel the presence of golden freddy
+# Five Nights at Freddy's (FNAF): It's Me
 
+## the idea
+feel the presence of golden freddy
 
 ## how to use
 add this to the head tag
@@ -14,7 +15,6 @@ add this to the head tag
 ```
 <script src="its-me.js"></script>
 ```
-
 
 ## thank you!
 leave a star ;)
